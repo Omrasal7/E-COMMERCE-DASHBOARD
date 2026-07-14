@@ -5,8 +5,6 @@
 This project is an interactive **Power BI Dashboard** developed to analyze the sales performance of an e-commerce business. The dashboard provides insights into sales, profit, customer behavior, product categories, payment methods, and regional performance through dynamic visualizations and interactive filters.
 
 The goal of this project is to transform raw sales data into meaningful business insights that help stakeholders make data-driven decisions.
-<img width="1327" height="741" alt="image" src="https://github.com/user-attachments/assets/02c5c0e6-18f2-4420-b825-8ab35562a265" />
-
 
 ---
 
@@ -96,10 +94,7 @@ The datasets were cleaned, transformed, and modeled using Power Query before vis
 
 ## 📸 Dashboard Preview
 
-> *(Add the dashboard screenshot here)*
-
-![Dashboard](dashboard.png)
-
+<img width="1327" height="741" alt="image" src="https://github.com/user-attachments/assets/02c5c0e6-18f2-4420-b825-8ab35562a265" />
 ---
 
 ## 📁 Repository Structure
